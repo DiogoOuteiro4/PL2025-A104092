@@ -1,7 +1,7 @@
 # PL2025-A104092
 
 ## Identificação
-**Nome:** Diogo Miguel Sousa Outeiro
+**Nome:** Diogo Miguel Sousa Outeiro  
 **Número:** A104092
 
 ![Foto do Aluno](image/yigaru4j.png)
