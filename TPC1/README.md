@@ -1,10 +1,12 @@
- TPC1 (Somador On/Off)  
+# TPC1 (Somador On/Off)  
 
 **Data:** 08 de fevereiro de 2025  
 
 **Autor:**  
 - **Nome:** Diogo Miguel Sousa Outeiro  
 - **Número:** A104092  
+
+![Foto do Aluno](image/yigaru4j.png)
 
 ## Resumo  
 Este projeto implementa um programa em Python para somar números em um texto fornecido via entrada padrão. As regras principais do programa são:  
