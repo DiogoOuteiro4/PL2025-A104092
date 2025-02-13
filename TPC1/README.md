@@ -37,7 +37,7 @@ A Soma atual é : 579
 A Soma atual é : 589
 A Soma atual é : 659
 A Soma atual é : 684
-A Soma atual é : 689
+A Soma atual é : 789
 ```
 
 O teste apresentado em cima foi um exemplo utilizado para testar o funcionamento do programa. Após isto chega-se á conclusão que foi possível lidar corretamente com números, controlar estados "On" e "Off", e apresentar os resultados quando solicitado. O programa foi testado com textos de variados tamanhos e mesmo assim confirmou-se a sua execução correta.
