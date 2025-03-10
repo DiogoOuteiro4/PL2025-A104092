@@ -1,0 +1,58 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "nome": "Croissant",
+      "quantidade": 10,
+      "preco": 1.1
+    },
+    {
+      "id": 2,
+      "nome": "Pepsi",
+      "quantidade": 9,
+      "preco": 1.4
+    },
+    {
+      "id": 3,
+      "nome": "Snickers",
+      "quantidade": 12,
+      "preco": 1.2
+    },
+    {
+      "id": 4,
+      "nome": "Água",
+      "quantidade": 15,
+      "preco": 1.0
+    },
+    {
+      "id": 5,
+      "nome": "Lays",
+      "quantidade": 7,
+      "preco": 1.8
+    },
+    {
+      "id": 6,
+      "nome": "KitKat",
+      "quantidade": 9,
+      "preco": 1.3
+    },
+    {
+      "id": 7,
+      "nome": "Heineken",
+      "quantidade": 4,
+      "preco": 2.5
+    },
+    {
+      "id": 8,
+      "nome": "M&M's",
+      "quantidade": 8,
+      "preco": 1.6
+    },
+    {
+      "id": 9,
+      "nome": "Sandes",
+      "quantidade": 3,
+      "preco": 0.7
+    }
+  ]
+}
